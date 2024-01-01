@@ -3,7 +3,7 @@
 # github: [jsx-eslint, ljharb]
 github: myez3k
 patreon: NamelessStudios239 # Replace with a single Patreon username
-custom: ['https://blog.ez3k.com', 'https://heylink.me/imailchecks/', 'https://www.paypal.com/donate/?hosted_button_id=3P55K3PACM62L'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ['https://blog.ez3k.com', "https://heylink.me/imailchecks/", "https://www.paypal.com/donate/?hosted_button_id=3P55K3PACM62L"] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
 
 # open_collective: jsx-eslint # Replace with a single Open Collective username
